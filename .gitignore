@@ -1,0 +1,25 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Datasets / downloaded data
+data/
+
+# Trained model weights
+*.pt
+*.pth
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Jupyter
+.jupyter/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
