@@ -5,6 +5,7 @@ env/
 
 # Datasets / downloaded data
 data/
+outputs
 
 # Trained model weights
 *.pt
